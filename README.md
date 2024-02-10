@@ -20,6 +20,12 @@ Este projeto consiste em um script em lotes do Windows (.bat) que facilita a ati
    - **Fazer Manualmente:** Abre a janela de Recursos do Windows para ativação/desativação manual.
    - **Fazer Automaticamente:** Ativa ou desativa os recursos automaticamente.
 
+## Tutorial em Vídeo
+
+[![Assista ao vídeo tutorial](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg/640px-YouTube_play_button_icon_%282013%E2%80%932017%29.svg.png)](https://youtu.be/LdNevoW5wWU?si=UY1ZOqcnMJEOAKOc)
+
+Assista a este [vídeo tutorial](https://youtu.be/LdNevoW5wWU?si=UY1ZOqcnMJEOAKOc) para ver uma demonstração de como usar este script.
+
 ## Notas
 
 - Certifique-se de revisar o script antes de executá-lo.

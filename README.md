@@ -26,6 +26,11 @@ Este projeto consiste em um script em lotes do Windows (.bat) que facilita a ati
 
 Assista a este [vídeo tutorial](https://youtu.be/LdNevoW5wWU?si=UY1ZOqcnMJEOAKOc) para ver uma demonstração de como usar este script.
 
+## Referência
+
+Este projeto foi inspirado pela solução apresentada em [Solução para Configurações incompatíveis do Windows no BlueStacks 5 quando o Hyper-V está ativado](https://support.bluestacks.com/hc/pt-br/articles/4409852112781-Solu%C3%A7%C3%A3o-para-Configura%C3%A7%C3%B5es-incompat%C3%ADveis-do-Windows-no-BlueStacks-5-quando-o-Hyper-V-est%C3%A1-ativado?locale=pt-br).
+
+
 ## Notas
 
 - Certifique-se de revisar o script antes de executá-lo.

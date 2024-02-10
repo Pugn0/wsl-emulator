@@ -60,8 +60,7 @@ if /i "%escolha%"=="A" (
     echo Ativando Plataforma de Máquina Virtual...
     powershell -Command "Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform"
     echo.
-    echo Concluído! O sistema será reiniciado em breve.
-    shutdown /r /t 5 /f /d p:0:0
+    echo Concluído!
 ) else if /i "%escolha%"=="D" (
     echo Desativando Subsistema do Windows para Linux...
     powershell -Command "Disable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux"

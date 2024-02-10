@@ -69,8 +69,7 @@ if /i "%escolha%"=="A" (
     echo Desativando Plataforma de Máquina Virtual...
     powershell -Command "Disable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform"
     echo.
-    echo Concluído! O sistema será reiniciado em breve.
-    shutdown /r /t 5 /f /d p:0:0
+    echo Concluído!
 ) else (
     echo Opção inválida. Por favor, escolha A para ativar ou D para desativar os recursos.
     pause

@@ -2,7 +2,7 @@
 
 Este projeto consiste em um script em lotes do Windows (.bat) que facilita a ativação ou desativação de recursos específicos do Windows.
 
-## Recursos Desativados
+## Recursos Do Windows 
 
 - **Subsistema do Windows para Linux (WSL)**
 - **Plataforma de Máquina Virtual**

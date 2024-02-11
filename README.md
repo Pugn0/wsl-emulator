@@ -22,7 +22,7 @@ Este projeto consiste em um script em lotes do Windows (.bat) que facilita a ati
 
 ## Tutorial em Vídeo
 
-[![Assista ao vídeo tutorial](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_play_button_icon_%282013%E2%80%932017%29.svg/640px-YouTube_play_button_icon_%282013%E2%80%932017%29.svg.png)](https://youtu.be/LdNevoW5wWU?si=UY1ZOqcnMJEOAKOc)
+[![Assista ao vídeo tutorial](https://i9.ytimg.com/vi_webp/bkNd6C1Z5xU/mqdefault.webp?v=65c81310&sqp=CIyxoK4G&rs=AOn4CLCPWbi7JlExA0bA4F_ckEWMUZDF1Q)](https://youtu.be/bkNd6C1Z5xU)
 
 Assista a este [vídeo tutorial](https://youtu.be/LdNevoW5wWU?si=UY1ZOqcnMJEOAKOc) para ver uma demonstração de como usar este script.
 

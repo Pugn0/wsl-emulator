@@ -1,3 +1,14 @@
+# Imagine se você pudesse:
+
+* **Criar robôs** que trabalham por você?
+* **Usar** a programação ao seu favor?
+* **Economizar** dezenas de horas?
+* **Monetizar** seu conhecimento?
+
+Vou te ensinar tudo isso [neste curso](#), saiba mais [clicando aqui](#).
+
+---
+
 # Automatização de Recursos do Windows
 
 Este projeto consiste em um script em lotes do Windows (.bat) que facilita a ativação ou desativação de recursos específicos do Windows.
